@@ -77,7 +77,8 @@ p {
   margin-bottom: 1rem; }
 
 .available{
-  font-size: 19px;
+  font-size: 16px;
+  color: white;
 }
 abbr[title],
 abbr[data-original-title] {
@@ -9004,7 +9005,9 @@ h1, h2, h3, h4, h5,
     .project .text h3 {
       font-size: 20px; }
       .project .text h3 a {
-        color: #fff; }
+        font-size: larger;
+        color: #000;
+        font-weight: bolder; }
     .project .text span {
       color: rgba(255, 255, 255, 0.8);
       text-transform: uppercase;
